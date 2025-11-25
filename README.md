@@ -1,5 +1,5 @@
 # Answer for the given query
-![alt text](image-1.png)
+![Alt text]("C:\Users\ragha\OneDrive\画像\Screenshots\Screenshot 2025-11-25 184312.png")
 
 # colab file:
 https://colab.research.google.com/drive/1IpC8-2MUxLV8paruy9IKFpGK833i58fB?usp=sharing
