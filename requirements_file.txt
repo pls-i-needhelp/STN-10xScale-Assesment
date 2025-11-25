@@ -1,0 +1,19 @@
+# Core Dependencies for Conflict-Aware RAG System
+# Python 3.8+ required
+
+# Vector Database
+chromadb==0.4.22
+
+# Google Gemini API
+google-generativeai==0.3.2
+
+# Embeddings
+sentence-transformers==2.3.1
+
+# HuggingFace for Open-Source LLM (Bonus Points)
+huggingface-hub==0.20.3
+transformers==4.37.2
+
+# Optional: For better performance
+torch>=2.0.0  # PyTorch for embeddings (CPU version is fine)
+numpy>=1.24.0
