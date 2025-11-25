@@ -1,5 +1,5 @@
 # Answer for the given query
-![Alt text]("C:\Users\ragha\OneDrive\画像\Screenshots\Screenshot 2025-11-25 184312.png")
+<img width="1734" height="536" alt="Screenshot 2025-11-25 184312" src="https://github.com/user-attachments/assets/cbd58d32-5e63-426a-a284-2e832d27f678" />
 
 # colab file:
 https://colab.research.google.com/drive/1IpC8-2MUxLV8paruy9IKFpGK833i58fB?usp=sharing
