@@ -5,7 +5,7 @@
 https://colab.research.google.com/drive/1IpC8-2MUxLV8paruy9IKFpGK833i58fB?usp=sharing
 
 # Conflict-Aware RAG System for NebulaGears
-## GenAI Intern Assessment Solution
+## STN 10xScale Intern Assessment Solution
 
 A production-ready Retrieval Augmented Generation (RAG) system that intelligently resolves contradictory information in company policy documents using **metadata-enhanced retrieval**, **open-source LLM conflict detection**, and **hierarchical reasoning**.
 
@@ -26,7 +26,7 @@ Traditional RAG systems fail when documents contain conflicting information. For
 
 ---
 
-## ✨ Our Solution: 4-Stage Hybrid Pipeline
+## ✨Solution: 4-Stage Hybrid Pipeline
 
 ### Architecture Overview
 
@@ -90,10 +90,10 @@ Open the notebook or script and replace the API keys:
 
 ```python
 # Google Gemini API Key
-GEMINI_API_KEY = "your_gemini_api_key_here"
+GEMINI_API_KEY = "gemini_api_key_here"
 
-# HuggingFace Token (optional for bonus points)
-HF_TOKEN = "your_huggingface_token_here"
+# HuggingFace Token 
+HF_TOKEN = "huggingface_token_here"
 ```
 
 ### 4. Run in Google Colab
